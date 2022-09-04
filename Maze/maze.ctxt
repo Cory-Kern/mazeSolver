@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=maze
+comment1.params=
+comment1.target=void\ Main()
+comment2.params=
+comment2.target=void\ manualSolve()
+comment3.params=maze
+comment3.target=void\ autoSolve(inter[][])
+numComments=4

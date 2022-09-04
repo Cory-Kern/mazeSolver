@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Solver
+comment1.params=maze\ last
+comment1.target=void\ Solver(inter[][],\ int)
+numComments=2
